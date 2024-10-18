@@ -306,7 +306,7 @@ body {
   font-size: 14px;
   line-height: 1.428571429;
   color: #ffffff;
-  background-color: #108a93;
+  background-color: #341539;
 }
 
 input,
@@ -326,7 +326,7 @@ textarea {
 }
 
 a {
-  color: #e8d069;
+  color:  #000000;
   text-decoration: none;
 }
 
@@ -4699,31 +4699,31 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default {
-  background-color: #ad1d28;
+  background-color: #E4E0E1;
   border-color: #911821;
 }
 
 .navbar-default .navbar-brand {
-  color: #ffffff;
+  color: #000000;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: #ffffff;
+  color: #000000;
   background-color: none;
 }
 
 .navbar-default .navbar-text {
-  color: #bbbbbb;
+  color: #000000;
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: #ffffff;
+  color: #000000;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #ffffff;
+  color: #000000;
   background-color: #d92432;
 }
 
@@ -7323,7 +7323,7 @@ legend {
 }
 
 .list-group-item {
-  background-color: #13a0aa;
+  background-color: #CBD2A4;
 }
 
 .popover {

@@ -1,6 +1,6 @@
 extends layout
 
 block content
-  h1= message
+  h1= title || 'Error Page'  // Fallback to 'Error Page' if title is not defined
   h2= error.status
   pre #{error.stack}
